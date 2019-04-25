@@ -1,0 +1,20 @@
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\Domaine\bin\Debug\Domaine.dll
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\Domaine\bin\Debug\Domaine.pdb
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\Domaine\obj\Debug\Domaine.dll
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\Domaine\obj\Debug\Domaine.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+D:\ESPRIT 2017\MVC-Final-5eme\Domaine\bin\Debug\Domaine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Domaine\bin\Debug\Domaine.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+D:\ESPRIT 2017\MVC-Final-5eme\Domaine\obj\Debug\Domaine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Domaine\obj\Debug\Domaine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\Domaine\bin\Debug\Domaine.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\Domaine\bin\Debug\Domaine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\Domaine\obj\Debug\Domaine.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\Domaine\obj\Debug\Domaine.pdb
+C:\Users\work\Desktop\MVC-Final-5eme\Domaine\bin\Debug\Domaine.dll
+C:\Users\work\Desktop\MVC-Final-5eme\Domaine\bin\Debug\Domaine.pdb
+C:\Users\work\Desktop\MVC-Final-5eme\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+C:\Users\work\Desktop\MVC-Final-5eme\Domaine\obj\Debug\Domaine.dll
+C:\Users\work\Desktop\MVC-Final-5eme\Domaine\obj\Debug\Domaine.pdb

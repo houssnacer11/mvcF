@@ -1,0 +1,405 @@
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\csc.exe
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Collections.Immutable.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\vbc.exe
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe.config
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll.config
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Data.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Domaine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Web.Infrastructure.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Owin.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\WebGrease.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Data.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Domaine.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieMVC.csprojResolveAssemblyReference.cache
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\csc.exe
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Collections.Immutable.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Reflection.Metadata.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\vbc.exe
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe.config
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll.config
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Web.Infrastructure.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Owin.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\WebGrease.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieMVC.csprojResolveAssemblyReference.cache
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll.config
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Owin.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieMVC.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\csc.exe
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll.config
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Owin.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\WebGrease.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieMVC.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll.config
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\MovieCyrine.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Owin.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\WebGrease.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Data.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Domaine.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServicePattern.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\ServiceSpecifiques.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\AutoMapper.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.ValueTuple.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieMVC.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\MovieCyrine\obj\Debug\MovieCyrine.pdb

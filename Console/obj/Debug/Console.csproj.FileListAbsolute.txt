@@ -1,0 +1,39 @@
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Console.exe.config
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Console.exe
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Console.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Data.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Domaine.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\EntityFramework.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\ServicePattern.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\ServiceSpecifiques.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Data.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\Domaine.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\ServicePattern.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\ServiceSpecifiques.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\EntityFramework.xml
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\obj\Debug\Console.exe
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\Console\obj\Debug\Console.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Console.exe.config
+D:\ESPRIT 2017\MVC-Final-5eme\Console\obj\Debug\Console.exe
+D:\ESPRIT 2017\MVC-Final-5eme\Console\obj\Debug\Console.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Console.exe
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Console.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Data.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Domaine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\EntityFramework.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\ServicePattern.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\ServiceSpecifiques.dll
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Data.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\Domaine.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\ServicePattern.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\ServiceSpecifiques.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\EntityFramework.xml
+D:\ESPRIT 2017\MVC-Final-5eme\Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\ESPRIT 2017\MVC-Final-5eme\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\work\Desktop\MVC-Final-5eme\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\work\Desktop\MVC-Final-5eme\Console\obj\Debug\Console.exe
+C:\Users\work\Desktop\MVC-Final-5eme\Console\obj\Debug\Console.pdb

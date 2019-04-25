@@ -1,0 +1,78 @@
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.dll
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.pdb
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.dll
+c:\users\cyrine\documents\visual studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\Data.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\Domaine.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\ServicePattern.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\EntityFramework.dll
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\Data.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\Domaine.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\ServicePattern.pdb
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\bin\Debug\EntityFramework.xml
+C:\Users\Cyrine\Documents\Visual Studio 2015\Projects\FilmCyrineSansCouche\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.csprojResolveAssemblyReference.cache
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.dll
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.dll
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.dll
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.dll
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.dll
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.pdb
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.xml
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.csprojResolveAssemblyReference.cache
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.dll
+D:\ESPRIT 2017\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.pdb
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.xml
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.csprojResolveAssemblyReference.cache
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.dll
+A:\ESPRIT 2017-2018\Architecture n-tiers .net\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.pdb
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.dll
+C:\Users\ASUS\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.pdb
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.dll
+C:\Users\LENOVO\Desktop\Esprit\dotnet\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServiceSpecifiques.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Data.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\Domaine.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\ServicePattern.pdb
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.dll
+C:\Users\HP\Desktop\Dossiers\4NIDS\2nd\dotNet\Projects\MVC-Final-5eme\MVC-Final-5eme\MVC-Final-5eme\ServiceSpecifiques\obj\Debug\ServiceSpecifiques.pdb
